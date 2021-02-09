@@ -1,0 +1,13 @@
+{
+  "name": "sanity-bulk-importer-powred-cli",
+  "version": "1.0.0",
+  "description": "bulk importer for sanity cms, powred by sanity cli",
+  "main": "index.js",
+  "repository": "https://github.com/smilehead-failman/sanity-bulk-importer-powred-cli",
+  "author": "Smilehead Failman",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "fxjs": "^0.21.1"
+  }
+}
